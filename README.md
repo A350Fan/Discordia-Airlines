@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Dies ist eine erfunde, virtuelle Airline</p>
+<p align="left">Dies ist eine ERFUNDENE, virtuelle Airline</p>
 
 ###
 
