@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">IATA-Code: DC<br>ICAO-Code: DCA<br>Rufzeichen: DISCORDIA<br>Gründung: 2025<br>Sitz: Ansbach, Deutschland<br>Heimatflughafen: Flughafen München, Deutschland<br>Unternehmensform: GmbH<br>IATA-Präfixcode: 826<br>Leitung:<br>- Geschäftsführer: ///////<br>- stellv. Geschäftsführer: ///////<br>Mitarbeiterzahl: 2<br>Umsatz: 0,00 Milliarden Euro<br>Bilanzsumme: 0,00 Milliarden Euro<br>Gewinn: - 545,6 Millionen Euro<br>Fluggastaufkommen: 0<br>Vielfliegerprogramm: coming soon...<br>Flottenstärke: 1 (+2 Bestellungen)<br>Ziele: international<br>Website: ////////////</p>
+<p align="left">IATA-Code: DC<br>ICAO-Code: DCA<br>Rufzeichen: DISCORDIA<br>Gründung: 2025<br>Sitz: Ansbach, Deutschland<br>Heimatflughafen: Flughafen München, Deutschland<br>Unternehmensform: GmbH<br>IATA-Präfixcode: 826<br>Leitung:<br>- Geschäftsführer: M. A350Fan<br>- stellv. Geschäftsführer: wird noch bekannt gegeben<br>Mitarbeiterzahl: 2<br>Umsatz: 0,00 Milliarden Euro<br>Bilanzsumme: 0,00 Milliarden Euro<br>Gewinn: - 545,6 Millionen Euro<br>Fluggastaufkommen: 0<br>Vielfliegerprogramm: coming soon...<br>Flottenstärke: 1 (+2 Bestellungen)<br>Ziele: international<br>Website: ////////////</p>
 
 ###
 
