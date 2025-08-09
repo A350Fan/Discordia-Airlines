@@ -2,6 +2,10 @@
 
 ###
 
+<img width="5000" height="5000" alt="Logo003 01LogoAirline_R1" src="https://github.com/user-attachments/assets/2ccbf65a-860f-4241-898b-e701543a4209" />
+
+###
+
 <p align="left">Dies ist eine ERFUNDENE, virtuelle Airline</p>
 
 ###
