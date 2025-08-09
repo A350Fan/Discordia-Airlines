@@ -6,9 +6,7 @@
 
 ###
 
-<img width="200" height="200" alt="Logo003 01LogoAirline_R1" src="https://github.com/user-attachments/assets/403061a1-12a5-41f0-8814-e5c4185282c8" /><img width="961" height="200" alt="Logo003 01SchriftzugAirline_R3" src="https://github.com/user-attachments/assets/75b4edac-8ce7-478b-82d7-c9cd8843fc8d" />
-
-
+<img width="200" height="200" alt="Logo003 01LogoAirline_R1" src="https://github.com/user-attachments/assets/403061a1-12a5-41f0-8814-e5c4185282c8" /><img width="577" height="120" alt="Logo003 01SchriftzugAirline_R3" src="https://github.com/user-attachments/assets/ce7b5e06-0ec9-4ee1-9e2d-5cc9abb5fb78" />
 
 ###
 
