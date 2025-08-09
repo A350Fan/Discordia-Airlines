@@ -45,3 +45,59 @@
 <p align="left">Colombo<br>Malé</p>
 
 ###
+
+<h2 align="left">Flotte</h2>
+
+###
+
+<p align="left">Tabelle folgt</p>
+
+###
+
+<p align="left">1x A380-800 (vor Auslieferung<br>1x A350-900 (bestellt)<br>1x A330-900 (bestellt)</p>
+
+###
+
+<h2 align="left">Technik</h2>
+
+###
+
+<p align="left">keine im Moment, Wartung in Lufthansa Hangars</p>
+
+###
+
+<h2 align="left">Pilotenausbildung</h2>
+
+###
+
+<h3 align="left">Discordia Flight Training</h3>
+
+###
+
+<p align="left">coming soon...</p>
+
+###
+
+<h2 align="left">Zwischenfälle</h2>
+
+###
+
+<p align="left">In ihrer Geschichte verzeichnet Discordia Airlines bisher keine Totalverluste von Flugzeugen sowie keine verletzen/ getöteten Menschen.</p>
+
+###
+
+<h2 align="left">Weblinks</h2>
+
+###
+
+<p align="left">coming soon...</p>
+
+###
+
+<h2 align="left">Copyright</h2>
+
+###
+
+<p align="left">coming soon...</p>
+
+###
