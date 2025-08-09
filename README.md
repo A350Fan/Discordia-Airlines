@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">1x A380-800 (vor Auslieferung<br>1x A350-900 (bestellt)<br>1x A330-900 (bestellt)</p>
+<p align="left">1x A380-800 (vor Auslieferung)<br>1x A350-900 (bestellt)<br>1x A330-900 (bestellt)</p>
 
 ###
 
