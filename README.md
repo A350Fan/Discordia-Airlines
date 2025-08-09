@@ -6,7 +6,8 @@
 
 ###
 
-<img width="200" height="200" alt="Logo003 01LogoAirline_R1" src="https://github.com/user-attachments/assets/09199cf9-238d-43ce-9066-f2cd9450ba6c" />
+<img width="200" height="200" alt="Logo003 01LogoAirline_R1" src="https://github.com/user-attachments/assets/09199cf9-238d-43ce-9066-f2cd9450ba6c"<img width="961" height="200" alt="Logo003 01SchriftzugAirline_R3" src="https://github.com/user-attachments/assets/a94b0428-9709-40c6-9318-ec4cceb4f753" />
+ />
 
 ###
 
