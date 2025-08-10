@@ -15,26 +15,28 @@
 ###
 
 
+| Zahlen und Fakten | |
+| :--- | :--- |
 | **IATA-Code** | DC |
-| ICAO-Code | DCA |
-| Rufzeichen | DISCORDIA |
-| Gründung | 2025 |
-| Sitz | Ansbach, Deutschland |
-| Heimatflughafen | Flughafen München, Deutschland |
-| Unternehmensform | GmbH |
-| IATA-Präfixcode | 826 |
-| Leitung | |
+| **ICAO-Code** | DCA |
+| **Rufzeichen** | DISCORDIA |
+| **Gründung** | 2025 |
+| **Sitz** | Ansbach, Deutschland |
+| **Heimatflughafen** | Flughafen München, Deutschland |
+| **Unternehmensform** | GmbH |
+| **IATA-Präfixcode** | 826 |
+| **Leitung** | |
 | - Geschäftsführer | M. A350Fan |
 | - stellv. Geschäftsführer | wird noch bekannt gegeben |
-| Mitarbeiterzahl | 2 |
-| Umsatz | 0,00 Milliarden Euro |
-| Bilanzsumme | 0,00 Milliarden Euro |
-| Gewinn | - 545,6 Millionen Euro |
-| Fluggastaufkommen | 0 |
-| Vielfliegerprogramm | coming soon... |
-| Flottenstärke | 1 (+2 Bestellungen) |
-| Ziele | international |
-| Website | //////////// |
+| **Mitarbeiterzahl** | 2 |
+| **Umsatz** | 0,00 Milliarden Euro |
+| **Bilanzsumme** | 0,00 Milliarden Euro |
+| **Gewinn** | - 545,6 Millionen Euro |
+| **Fluggastaufkommen** | 0 |
+| **Vielfliegerprogramm** | coming soon... |
+| **Flottenstärke** | 1 (+2 Bestellungen) |
+| **Ziele** | international |
+| **Website** | [https://github.com/A350Fan/Discordia_Airlines] |
 
 ###
 
