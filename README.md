@@ -15,7 +15,7 @@
 ###
 
 
-| IATA-Code | DC |
+| **IATA-Code** | DC |
 | :--- | :--- |
 | ICAO-Code | DCA |
 | Rufzeichen | DISCORDIA |
