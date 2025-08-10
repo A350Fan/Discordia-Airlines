@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">| Zahlen und Fakten | |
+| Zahlen und Fakten | |
 | :--- | :--- |
 | IATA-Code | DC |
 | ICAO-Code | DCA |
@@ -35,7 +35,7 @@
 | Vielfliegerprogramm | coming soon... |
 | Flottenstärke | 1 (+2 Bestellungen) |
 | Ziele | international |
-| Website | //////////// |</p>
+| Website | //////////// |
 
 ###
 
