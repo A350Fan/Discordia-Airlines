@@ -36,7 +36,7 @@
 | **Vielfliegerprogramm** | coming soon... |
 | **Flottenstärke** | 1 (+2 Bestellungen) |
 | **Ziele** | international |
-| **Website** | [https://github.com/A350Fan/Discordia_Airlines] |
+| **Website** | https://github.com/A350Fan/Discordia_Airlines |
 
 ###
 
