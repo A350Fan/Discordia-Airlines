@@ -14,7 +14,7 @@
 
 ###
 
-| Zahlen und Fakten | |
+
 | :--- | :--- |
 | IATA-Code | DC |
 | ICAO-Code | DCA |
