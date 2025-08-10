@@ -26,8 +26,8 @@
 | **Unternehmensform** | GmbH |
 | **IATA-Präfixcode** | 826 |
 | **Leitung** | |
-|     Geschäftsführer | M. A350Fan |
-|     stellv. Geschäftsführer | wird noch bekannt gegeben |
+|   *Geschäftsführer* | M. A350Fan |
+|   *stellv. Geschäftsführer* | wird noch bekannt gegeben |
 | **Mitarbeiterzahl** | 2 |
 | **Umsatz** | 0,00 Milliarden Euro |
 | **Bilanzsumme** | 0,00 Milliarden Euro |
