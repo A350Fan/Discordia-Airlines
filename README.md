@@ -16,7 +16,6 @@
 
 
 | **IATA-Code** | DC |
-| :--- | :--- |
 | ICAO-Code | DCA |
 | Rufzeichen | DISCORDIA |
 | Gründung | 2025 |
