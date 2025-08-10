@@ -6,7 +6,7 @@
     <title>Discordia Airlines</title>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; line-height: 1.6; color: #202122; max-width: 960px; margin: auto; padding: 20px; background-color: #f8f9fa; }
-        .infobox { border: 1px solid #a2a9b1; padding: 10px; background-color: #f8f9fa; float: right; margin-left: 20px; width: 300px; box-sizing: border-box; font-size: 14px; }
+        .infobox { border: 1px solid #a2a9b1; padding: 10px; background-color: #f8f9fa; float: right; /* margin-left: 20px; wurde entfernt */ width: 370px; box-sizing: border-box; font-size: 14px; }
         .infobox h2 { text-align: center; font-size: 1.2em; margin-top: 0; border-bottom: 1px solid #a2a9b1; padding-bottom: 5px; }
         .infobox p { margin: 5px 0; }
         .infobox strong { font-weight: bold; }
@@ -21,9 +21,49 @@
         .clearfix::after { content: ""; clear: both; display: table; }
         .infobox table { border-collapse: collapse; }
         .infobox table td { border: 1px solid #a2a9b1; padding: 3px 5px; vertical-align: top; }
-	.infobox table tr:last-child td { border-bottom: 1px solid #a2a9b1; }
+        .infobox table tr:last-child td { border-bottom: 1px solid #a2a9b1; }
         .infobox table td:first-child { font-weight: bold; width: 45%; }
         .infobox ul { margin: 0; padding-left: 20px; }
+        
+        /* NEUER CODE FÜR DIE ANIMATION */
+        .coming-soon-container {
+            display: flex;
+            align-items: center;
+        }
+
+        .coming-soon-container span {
+            white-space: nowrap;
+        }
+
+        .guard-lights-container {
+            display: flex;
+            gap: 5px;
+            margin-left: 10px;
+        }
+        
+        .guard-light {
+            width: 15px;
+            height: 15px;
+            background-color: #FF4500;
+            border-radius: 50%;
+        }
+
+        /* Definition der Blink-Animation */
+        @keyframes pulse {
+            0% { opacity: 0; }
+            49% { opacity: 0; }
+            50% { opacity: 1; }
+            100% { opacity: 1; }
+        }
+
+        /* Anwendung der Animation auf die einzelnen Lichter mit Verzögerung */
+        .guard-light-1 {
+            animation: pulse 1s infinite;
+        }
+        .guard-light-2 {
+            animation: pulse 1s infinite;
+            animation-delay: -0.5s;
+        }
     </style>
 </head>
 <body>
@@ -99,7 +139,15 @@
                 </tr>
                 <tr>
                     <td>Vielfliegerprogramm:</td>
-                    <td>coming soon...</td>
+                    <td>
+                         <div class="coming-soon-container">
+                             <span>coming soon...</span>
+                             <div class="guard-lights-container">
+                                 <div class="guard-light guard-light-1"></div>
+                                 <div class="guard-light guard-light-2"></div>
+                             </div>
+                         </div>
+                    </td>
                 </tr>
                 <tr>
                     <td>Flottenstärke:</td>
@@ -111,24 +159,44 @@
                 </tr>
                 <tr>
                     <td>Website:</td>
-                    <td>////////////</td>
+                    <td>
+                         <div class="coming-soon-container">
+                            <span>coming soon...</span>
+                             <div class="guard-lights-container">
+                                 <div class="guard-light guard-light-1"></div>
+                                 <div class="guard-light guard-light-2"></div>
+                             </div>
+                         </div>
+                    </td>
                 </tr>
             </tbody>
         </table>
     </div>
 
-    <img src="https://github.com/user-attachments/assets/ce7b5e06-0ec9-4ee1-9e2d-5cc9abb5fb78" width="577" height="120" alt="Schriftzug Discordia Airlines">
-
     <h1>Discordia Airlines</h1>
     <p>eine ERFUNDENE, virtuelle Airline</p>
+    <img src="https://github.com/user-attachments/assets/ce7b5e06-0ec9-4ee1-9e2d-5cc9abb5fb78" width="577" height="120" alt="Schriftzug Discordia Airlines">
 
     <h2>Geschichte</h2>
-    <p>coming soon...</p>
-
+    <div class="coming-soon-container">
+        <span>coming soon...</span>
+        <div class="guard-lights-container">
+            <div class="guard-light guard-light-1"></div>
+            <div class="guard-light guard-light-2"></div>
+        </div>
+    </div>
+    
     <h2>Flugziele</h2>
     <h3>Ab München</h3>
     <h4>Kurz- und Mittelstrecke</h4>
-    <p>coming soon...</p>
+    <div class="coming-soon-container">
+        <span>coming soon...</span>
+        <div class="guard-lights-container">
+            <div class="guard-light guard-light-1"></div>
+            <div class="guard-light guard-light-2"></div>
+        </div>
+    </div>
+    
     <h4>Langstrecke</h4>
     <ul>
         <li>Colombo</li>
@@ -144,20 +212,40 @@
     </ul>
 
     <h2>Technik</h2>
-    <p>keine im Moment, Wartung in Lufthansa Hangars</p>
+    <div class="coming-soon-container">
+        <span>keine im Moment, Wartung in Lufthansa Hangars</span>
+    </div>
 
     <h2>Pilotenausbildung</h2>
     <h3>Discordia Flight Training</h3>
-    <p>coming soon...</p>
+    <div class="coming-soon-container">
+        <span>coming soon...</span>
+        <div class="guard-lights-container">
+            <div class="guard-light guard-light-1"></div>
+            <div class="guard-light guard-light-2"></div>
+        </div>
+    </div>
 
     <h2>Zwischenfälle</h2>
     <p>In ihrer Geschichte verzeichnet Discordia Airlines bisher keine Totalverluste von Flugzeugen sowie keine verletzen/ getöteten Menschen.</p>
 
     <h2>Weblinks</h2>
-    <p>coming soon...</p>
+    <div class="coming-soon-container">
+        <span>coming soon...</span>
+        <div class="guard-lights-container">
+            <div class="guard-light guard-light-1"></div>
+            <div class="guard-light guard-light-2"></div>
+        </div>
+    </div>
 
     <h2>Copyright</h2>
-    <p>coming soon...</p>
+    <div class="coming-soon-container">
+        <span>coming soon...</span>
+        <div class="guard-lights-container">
+            <div class="guard-light guard-light-1"></div>
+            <div class="guard-light guard-light-2"></div>
+        </div>
+    </div>
 </div>
 
 </body>
